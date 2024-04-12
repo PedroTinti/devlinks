@@ -5,12 +5,11 @@ O DevLinks é um agregador de links para usar como cartão de visitas online. <b
 </p>
 
 <p align="center">
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
-<hr>
+
+## Layout
 
 <h3 align="center">Modelo escuro</h3>
 <p align="center">
@@ -32,5 +31,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
-
-
